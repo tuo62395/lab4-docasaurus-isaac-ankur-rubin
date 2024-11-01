@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/lab4-docasaurus-isaac-ankur-rubin/blog","blogTitle":"Blog","authorsListPath":"/lab4-docasaurus-isaac-ankur-rubin/blog/authors"}')}}]);
